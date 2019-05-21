@@ -3,7 +3,7 @@
 `npm install`
 
 For development purposes:
-`npm run dev`
+`npm start`
 
 For builds:
 `npm run build`
